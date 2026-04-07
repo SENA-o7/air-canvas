@@ -1,0 +1,35 @@
+MEDIAPIPE VE BİLGİSAYARLI GÖRÜÜŞ EĞİTİM KAZANIMLARI ✨
+
+Bu eğitim serisi boyunca, ham bir kamera görüntüsünden akıllı bir interaktif sisteme giden yolu 5 temel derste öğrendik:
+
+DERS 1: ELLERİ HARİTALANDIRMA (LANDMARKS)
+-------------------------------------------
+- MediaPipe'ın elimizi 21 farklı eklem noktasına (landmark) ayırdığını keşfettik.
+- Oransal koordinatları (0-1 arası) ekran çözünürlüğüne göre gerçek piksel değerlerine dönüştürmeyi öğrendik.
+- Her bir noktaya özel renkler (Rainbow effect) ve ince çizgilerle estetik görselleştirme tekniklerini uyguladık.
+
+ DERS 2: MANTIKSAL ANALİZ (PARMAK SAYMA)
+-----------------------------------------
+- Geometrik karşılaştırma yöntemini öğrendik: Bir parmağın uç noktasının Y koordinatı eklemden küçükse o parmak "açıktır".
+- Çoklu el desteği ile ekrandaki tüm parmakları toplamayı ve her 10 parmakta bir "Çift El" sayan bir sayaç mantığı kurduk.
+
+DERS 3: MATEMATİKSEL ETKİLEŞİM (MESAFE ÖLÇER)
+-----------------------------------------------
+- İki nokta arasındaki Öklid mesafesini (math.hypot) hesaplayarak derinlik ve yakınlık algısı oluşturduk.
+- Belirli mesafe eşikleri (threshold) kullanarak "Tıklama" veya "Seçme" gibi fiziksel olmayan butonlar tasarladık.
+
+ DERS 4: HAREKET KONTROLÜ (GESTURES)
+-------------------------------------
+- Parmak durumlarının kombinasyonlarını (dizilerini) kullanarak "Yumruk", "V İşareti" veya "İşaret Parmağı" gibi spesifik modlar tanımladık.
+- Programın akışını el hareketlerine göre dinamik olarak değiştirmeyi (Mod geçişleri) başardık.
+
+ DERS 5: ÇOKLU EL VE KİMLİK AYRIMI
+-----------------------------------
+- Ekrandaki ellerin hangisinin "Sağ" hangisinin "Sol" olduğunu MediaPipe'ın 'handedness' özelliğiyle ayırt etmeyi öğrendik.
+- Karmaşık veri yapıları içinde birden fazla elin koordinatlarını senkronize şekilde işlemeyi kavradık.
+
+ SONUÇ:
+Bu kazanımlar bizi "Air Canvas" gibi projelerde; parmağımızı bir kalem gibi kullanmaya, havada renk seçmeye ve el hareketleriyle komut vermeye hazır hale getirdi.
+-------------------------------------------
+ Hazırlayan: Sena Öz (Mühendislik Zarafetiyle :))
+-------------------------------------------

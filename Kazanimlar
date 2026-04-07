@@ -1,0 +1,11 @@
+**Computer Vision Projesi Kurulum Sürecinde Edindiğim Teknik Kazanımlar**
+
+Air Canvas (Hand Tracking & Computer Vision) projesine başlarken yalnızca uygulama geliştirmeyi değil, aynı zamanda profesyonel yazılım geliştirme ortamı kurmayı öğrendim. Bu süreçte Python projelerinde kullanılan virtual environment (venv) yapısını kurarak her projenin bağımsız bir çalışma ortamına sahip olması gerektiğini deneyimledim.
+
+PyCharm IDE içerisinde interpreter yönetimini öğrenerek editör ile Python yorumlayıcısı arasındaki farkı kavradım ve proje bazlı environment yönetimi gerçekleştirdim. Böylece kütüphane çakışmalarını önleyen izole geliştirme ortamı oluşturmayı öğrendim.
+
+Kurulum aşamasında yaşadığım MediaPipe import hatasını analiz ederek Python import mekanizmasını, dependency management kavramını ve hata ayıklama (debugging) sürecini uygulamalı olarak deneyimledim. Paketlerin doğru ortamda kurulması, pip yönetimi ve kütüphane bağımlılıklarının proje bazında kontrol edilmesi konularında pratik kazandım.
+
+Bu süreç sayesinde yalnızca kod yazmayı değil; yazılım projelerinde profesyonel geliştirme akışını, problem çözme yaklaşımını ve gerçek dünya Computer Vision projeleri için gerekli teknik altyapıyı kurmayı öğrendim.
+
+Kurulan sistem ile OpenCV ve MediaPipe kullanarak gerçek zamanlı kamera verisi işleme, el landmark tespiti ve görüntü işleme pipeline’ına giriş seviyesinde hakimiyet sağladım.
